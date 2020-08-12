@@ -1,0 +1,1 @@
+This code finds the SPNE of a given game. Feel free to contact me for more information.
